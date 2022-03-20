@@ -1,9 +1,5 @@
-# Hisoka-Morou
-Script WhatsApp Bot Multi Device
-
-## NOTE
-This Script is for everyone, not for Sale
+# ZX-API
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://www.itl.cat/pngfile/big/321-3216663_anime-girl-loli-cute-brown-hair-twintails-cute.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
