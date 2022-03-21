@@ -176,3 +176,105 @@ zxy.downloader</br></br>
   </tr>
 </tbody>
 </table>
+
+# Information
+zxy.info</br></br>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">No</th>
+    <th class="tg-0pky">Fitur</th>
+    <th class="tg-0pky">Status</th>
+    <th class="tg-0pky">parameter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">merdekanews</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">gempa</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">jadwalmplid</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">-</td>
+  </tr>
+</tbody>
+</table>
+
+# Primbon
+zxy.primbon</b></b>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">No</th>
+    <th class="tg-0pky">Fitur</th>
+    <th class="tg-0pky">Status</th>
+    <th class="tg-0pky">parameter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">artinama</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">nama</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">artimimpi</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">mimpi</td>
+  </tr>
+</tbody>
+</table>
+
+# Anime
+zxy.anime</br></br>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">No</th>
+    <th class="tg-0pky">Fitur</th>
+    <th class="tg-0pky">Status</th>
+    <th class="tg-0pky">parameter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">character</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">nama</td>
+  </tr>
+</tbody>
+</table>
+
+# Religi
+zxy.religi</b></b>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">No</th>
+    <th class="tg-0pky">Fitur</th>
+    <th class="tg-0pky">Status</th>
+    <th class="tg-0pky">parameter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">jadwalshalat</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">Daerah</td>
+  </tr>
+</tbody>
+</table>
