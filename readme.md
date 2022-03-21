@@ -16,6 +16,7 @@ const tiktok = await zxy.downloader.tiktok(url tiktok)
 
 # List Fitur
 # Search
+zxy.search</b></b>
 <table class="tg">
 <thead>
   <tr>
