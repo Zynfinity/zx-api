@@ -23,6 +23,7 @@ zxy.search</b></b>
     <th class="tg-0pky">No</th>
     <th class="tg-0pky">Fitur</th>
     <th class="tg-0pky">Status</th>
+    <th class="tg-0pky">parameter</th>
   </tr>
 </thead>
 <tbody>
@@ -30,76 +31,148 @@ zxy.search</b></b>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">happymod</td>
     <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">gore</td>
     <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">layarkita</td>
     <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">anoboy</td>
     <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">zerochan</td>
     <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">konachan</td>
     <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">7</td>
-    <td class="tg-0lax">pinterest</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">pinterest</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">8</td>
-    <td class="tg-0lax">sticker</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">sticker</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">9</td>
-    <td class="tg-0lax">rexdl</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">rexdl</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10</td>
-    <td class="tg-0lax">chord</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">chord</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">lirik</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">lirik</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">12</td>
-    <td class="tg-0lax">kbbi</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">kbbi</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">13</td>
-    <td class="tg-0lax">gsmarena</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">gsmarena</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">14</td>
-    <td class="tg-0lax">wallpaper</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">14</td>
+    <td class="tg-0pky">wallpaper</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
   </tr>
   <tr>
-    <td class="tg-0lax">15</td>
-    <td class="tg-0lax">carigc</td>
-    <td class="tg-0lax">✅</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">carigc</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">query</td>
+  </tr>
+</tbody>
+</table>
+
+# Downloader
+zxy.downloader</br></br>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">No</th>
+    <th class="tg-0pky">Fitur</th>
+    <th class="tg-0pky">Status</th>
+    <th class="tg-0pky">parameter</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">facebook</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">gore</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">twitter</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">tiktok</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">instagram</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">mediafire</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">soundcloud</td>
+    <td class="tg-0pky">✅</td>
+    <td class="tg-0pky">url</td>
   </tr>
 </tbody>
 </table>
