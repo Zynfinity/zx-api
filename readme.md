@@ -7,11 +7,11 @@
 Get **APIKEY** here https://wa.me/6281990498472?text=.getapikey
 
 # Usage
-const client = require('zxy-api')
+const client = require('zxy-api')</br>
 const zxy = new client(apikey)
 
 # Example
-TIKTOK
+TIKTOK</br>
 const tiktok = await zxy.downloader.tiktok(url tiktok)
 
 # List Fitur
