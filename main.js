@@ -1,5 +1,9 @@
-const cekapi = require('./lib/cekapi');
-const axios = require('axios')
+global.mess = {
+  apikey: {
+    status: false,
+    message: 'apikey invalid, get apikey here https://wa.me/6281990498472?text=.getapikey'
+  }
+}
 class zxclient{
     constructor(token, options = {}) {
         if (!token) throw new Error("Unknown Token: Apikey Missing");
@@ -8,6 +12,7 @@ class zxclient{
         this.news = require('./lib/news')
         this.search = require('./lib/search')
         this.downloader = require('./lib/downloader')
+      global.apikey
     }
 }
 module.exports = {zxclient}
