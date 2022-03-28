@@ -2,8 +2,6 @@
 node_modules
 # package lock
 package-lock.json
-#session
-.wwebjs_auth
 #temp
 scraper.js
 test.js
