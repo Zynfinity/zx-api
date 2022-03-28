@@ -4,16 +4,8 @@
 	<img src="https://www.itl.cat/pngfile/big/321-3216663_anime-girl-loli-cute-brown-hair-twintails-cute.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-<<<<<<< HEAD
 # Usage
 const zxy = require('zxy-api')</br>
-=======
-Get **APIKEY** here https://wa.me/6281990498472?text=.getapikey
-
-# Usage
-const client = require('zxy-api')</br>
-const zxy = new client(apikey)
->>>>>>> 3c0856811d780a7f389d1ff62c6362e799624f17
 
 # Example
 TIKTOK</br>
